@@ -1,0 +1,106 @@
+
+sn1.20:0.3|Samiddhisutta"
+sn1.20:1.1|Evam me sutam—
+sn1.20:1.2|ekam samayam bhagava rajagahe viharati tapodarame.
+sn1.20:1.3|Atha kho ayasma samiddhi rattiya paccusasamayam paccutthaya yena tapoda tenupasankami gattani parisiñcitum.
+sn1.20:1.4|Tapode gattani parisiñcitva paccuttaritva ekacivaro atthasi gattani pubbapayamano.
+sn1.20:1.5|Atha kho aññatara devata abhikkantaya rattiya abhikkantavanna kevalakappam tapodam obhasetva yena ayasma samiddhi tenupasankami; upasankamitva vehasam thita ayasmantam samiddhim gathaya ajjhabhasi:
+sn1.20:1.6|“Abhutva bhikkhasi bhikkhu,
+sn1.20:1.7|na hi bhutvana bhikkhasi;
+sn1.20:1.8|Bhutvana bhikkhu bhikkhassu,
+sn1.20:1.9|ma tam kalo upaccaga”ti.
+sn1.20:3.1|“Kalam voham na janami,
+sn1.20:3.2|channo kalo na dissati;
+sn1.20:3.3|Tasma abhutva bhikkhami,
+sn1.20:3.4|ma mam kalo upaccaga”ti.
+sn1.20:4.1|Atha kho sa devata pathaviyam patitthahitva ayasmantam samiddhim etadavoca:
+sn1.20:4.2|“daharo tvam, bhikkhu, pabbajito susu kalakeso, bhadrena yobbanena samannagato, pathamena vayasa, anikkilitavi kamesu.
+sn1.20:4.3|Bhuñja, bhikkhu, manusake kame;
+sn1.20:4.4|ma sanditthikam hitva kalikam anudhavi”ti.
+sn1.20:5.1|“Na khvaham, avuso, sanditthikam hitva kalikam anudhavami.
+sn1.20:5.2|Kalikañca khvaham, avuso, hitva sanditthikam anudhavami.
+sn1.20:5.3|Kalika hi, avuso, kama vutta bhagavata bahudukkha bahupayasa; adinavo ettha bhiyyo.
+sn1.20:5.4|Sanditthiko ayam dhammo akaliko ehipassiko opaneyyiko paccattam veditabbo viññuhi”ti.
+sn1.20:6.1|“Kathañca, bhikkhu, kalika kama vutta bhagavata bahudukkha bahupayasa, adinavo ettha bhiyyo?
+sn1.20:6.2|Katham sanditthiko ayam dhammo akaliko ehipassiko opaneyyiko paccattam veditabbo viññuhi”ti?
+sn1.20:7.1|“Aham kho, avuso, navo acirapabbajito adhunagato imam dhammavinayam.
+sn1.20:7.2|Na taham sakkomi vittharena acikkhitum.
+sn1.20:7.3|Ayam so bhagava araham sammasambuddho rajagahe viharati tapodarame.
+sn1.20:7.4|Tam bhagavantam upasankamitva etamattham puccha.
+sn1.20:7.5|Yatha te bhagava byakaroti tatha nam dhareyyasi”ti.
+sn1.20:8.1|“Na kho, bhikkhu, sukaro so bhagava amhehi upasankamitum, aññahi mahesakkhahi devatahi parivuto.
+sn1.20:8.2|Sace kho tvam, bhikkhu, tam bhagavantam upasankamitva etamattham puccheyyasi, mayampi agaccheyyama dhammassavanaya”ti.
+sn1.20:8.3|“Evamavuso”ti kho ayasma samiddhi tassa devataya patissutva yena bhagava tenupasankami; upasankamitva bhagavantam abhivadetva ekamantam nisidi. Ekamantam nisinno kho ayasma samiddhi bhagavantam etadavoca:
+sn1.20:9.1|“Idhaham, bhante, rattiya paccusasamayam paccutthaya yena tapoda tenupasankamim gattani parisiñcitum.
+sn1.20:9.2|Tapode gattani parisiñcitva paccuttaritva ekacivaro atthasim gattani pubbapayamano.
+sn1.20:9.3|Atha kho, bhante, aññatara devata abhikkantaya rattiya abhikkantavanna kevalakappam tapodam obhasetva yenaham tenupasankami; upasankamitva vehasam thita imaya gathaya ajjhabhasi:
+sn1.20:10.1|‘Abhutva bhikkhasi bhikkhu,
+sn1.20:10.2|na hi bhutvana bhikkhasi;
+sn1.20:10.3|Bhutvana bhikkhu bhikkhassu,
+sn1.20:10.4|ma tam kalo upaccaga’ti.
+sn1.20:11.1|Evam vutte, aham, bhante, tam devatam gathaya paccabhasim:
+sn1.20:12.1|‘Kalam voham na janami,
+sn1.20:12.2|channo kalo na dissati;
+sn1.20:12.3|Tasma abhutva bhikkhami,
+sn1.20:12.4|ma mam kalo upaccaga’ti.
+sn1.20:13.1|Atha kho, bhante, sa devata pathaviyam patitthahitva mam etadavoca:
+sn1.20:13.2|‘daharo tvam, bhikkhu, pabbajito susu kalakeso, bhadrena yobbanena samannagato, pathamena vayasa, anikkilitavi kamesu.
+sn1.20:13.3|Bhuñja, bhikkhu, manusake kame;
+sn1.20:13.4|ma sanditthikam hitva kalikam anudhavi’ti.
+sn1.20:14.1|Evam vuttaham, bhante, tam devatam etadavocam:
+sn1.20:14.2|‘na khvaham, avuso, sanditthikam hitva kalikam anudhavami;
+sn1.20:14.3|kalikañca khvaham, avuso, hitva sanditthikam anudhavami.
+sn1.20:14.4|Kalika hi, avuso, kama vutta bhagavata bahudukkha bahupayasa; adinavo ettha bhiyyo.
+sn1.20:14.5|Sanditthiko ayam dhammo akaliko ehipassiko opaneyyiko paccattam veditabbo viññuhi’ti.
+sn1.20:15.1|Evam vutte, bhante, sa devata mam etadavoca:
+sn1.20:15.2|‘kathañca, bhikkhu, kalika kama vutta bhagavata bahudukkha bahupayasa; adinavo ettha bhiyyo?
+sn1.20:15.3|Katham sanditthiko ayam dhammo akaliko ehipassiko opaneyyiko paccattam veditabbo viññuhi’ti?
+sn1.20:16.1|Evam vuttaham, bhante, tam devatam etadavocam:
+sn1.20:16.2|‘aham kho, avuso, navo acirapabbajito adhunagato imam dhammavinayam, na taham sakkomi vittharena acikkhitum.
+sn1.20:16.3|Ayam so bhagava araham sammasambuddho rajagahe viharati tapodarame.
+sn1.20:16.4|Tam bhagavantam upasankamitva etamattham puccha.
+sn1.20:16.5|Yatha te bhagava byakaroti tatha nam dhareyyasi’ti.
+sn1.20:17.1|Evam vutte, bhante, sa devata mam etadavoca:
+sn1.20:17.2|‘na kho, bhikkhu, sukaro so bhagava amhehi upasankamitum, aññahi mahesakkhahi devatahi parivuto.
+sn1.20:17.3|Sace kho tvam, bhikkhu, tam bhagavantam upasankamitva etamattham puccheyyasi, mayampi agaccheyyama dhammassavanaya’ti.
+sn1.20:17.4|Sace, bhante, tassa devataya saccam vacanam, idheva sa devata avidure”ti.
+sn1.20:18.1|Evam vutte, sa devata ayasmantam samiddhim etadavoca:
+sn1.20:18.2|“puccha, bhikkhu, puccha, bhikkhu, yamaham anuppatta”ti.
+sn1.20:19.1|Atha kho bhagava tam devatam gathahi ajjhabhasi:
+sn1.20:20.1|“Akkheyyasaññino satta,
+sn1.20:20.2|akkheyyasmim patitthita;
+sn1.20:20.3|Akkheyyam apariññaya,
+sn1.20:20.4|yogamayanti maccuno.
+sn1.20:21.1|Akkheyyañca pariññaya,
+sn1.20:21.2|Akkhataram na maññati;
+sn1.20:21.3|Tañhi tassa na hotiti,
+sn1.20:21.4|Yena nam vajja na tassa atthi;
+sn1.20:21.5|Sace vijanasi vadehi yakkha”ti.
+sn1.20:22.1|“Na khvaham, bhante, imassa bhagavata sankhittena bhasitassa vittharena attham ajanami.
+sn1.20:22.2|Sadhu me, bhante, bhagava tatha bhasatu yathaham imassa bhagavata sankhittena bhasitassa vittharena attham janeyyan”ti.
+sn1.20:23.1|“Samo visesi uda va nihino,
+sn1.20:23.2|Yo maññati so vivadetha tena;
+sn1.20:23.3|Tisu vidhasu avikampamano,
+sn1.20:23.4|Samo visesiti na tassa hoti;
+sn1.20:23.5|Sace vijanasi vadehi yakkha”ti.
+sn1.20:24.1|“Imassapi khvaham, bhante, bhagavata sankhittena bhasitassa na vittharena attham ajanami.
+sn1.20:24.2|Sadhu me, bhante, bhagava tatha bhasatu yathaham imassa bhagavata sankhittena bhasitassa vittharena attham janeyyan”ti.
+sn1.20:25.1|“Pahasi sankham na vimanamajjhaga,
+sn1.20:25.2|Acchecchi tanham idha namarupe;
+sn1.20:25.3|Tam chinnagantham anigham nirasam,
+sn1.20:25.4|Pariyesamana najjhagamum;
+sn1.20:25.5|Deva manussa idha va huram va,
+sn1.20:25.6|Saggesu va sabbanivesanesu.
+sn1.20:26.1|Sace vijanasi vadehi yakkha”ti.
+sn1.20:27.1|“Imassa khvaham, bhante, bhagavata sankhittena bhasitassa evam vittharena attham ajanami—
+sn1.20:28.1|Papam na kayira vacasa manasa,
+sn1.20:28.2|Kayena va kiñcana sabbaloke;
+sn1.20:28.3|Kame pahaya satima sampajano,
+sn1.20:28.4|Dukkham na sevetha anatthasamhitan”ti.
+sn1.20:28.5|Nandanavaggo dutiyo.
+sn1.20:29.1|Nandana nandati ceva,
+sn1.20:29.2|Natthiputtasamena ca;
+sn1.20:29.3|Khattiyo sanamano ca,
+sn1.20:29.4|Niddatandi ca dukkaram;
+sn1.20:29.5|Hiri kutika navamo,
+sn1.20:29.6|Dasamo vutto samiddhinati.

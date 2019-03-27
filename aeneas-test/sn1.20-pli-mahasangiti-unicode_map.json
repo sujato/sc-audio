@@ -1,0 +1,1054 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "2.160",
+   "id": "sn1.20:0.3",
+   "language": "eng",
+   "lines": [
+    "Samiddhisutta\""
+   ]
+  },
+  {
+   "begin": "2.160",
+   "children": [],
+   "end": "10.080",
+   "id": "sn1.20:1.1",
+   "language": "eng",
+   "lines": [
+    "Eva\u1e43 me suta\u1e43\u2014"
+   ]
+  },
+  {
+   "begin": "10.080",
+   "children": [],
+   "end": "20.280",
+   "id": "sn1.20:1.2",
+   "language": "eng",
+   "lines": [
+    "eka\u1e43 samaya\u1e43 bhagav\u0101 r\u0101jagahe viharati tapod\u0101r\u0101me."
+   ]
+  },
+  {
+   "begin": "20.280",
+   "children": [],
+   "end": "38.720",
+   "id": "sn1.20:1.3",
+   "language": "eng",
+   "lines": [
+    "Atha kho \u0101yasm\u0101 samiddhi rattiy\u0101 pacc\u016bsasamaya\u1e43 paccu\u1e6d\u1e6dh\u0101ya yena tapod\u0101 tenupasa\u1e45kami gatt\u0101ni parisi\u00f1citu\u1e43."
+   ]
+  },
+  {
+   "begin": "38.720",
+   "children": [],
+   "end": "46.920",
+   "id": "sn1.20:1.4",
+   "language": "eng",
+   "lines": [
+    "Tapode gatt\u0101ni parisi\u00f1citv\u0101 paccuttaritv\u0101 ekac\u012bvaro a\u1e6d\u1e6dh\u0101si gatt\u0101ni pubb\u0101payam\u0101no."
+   ]
+  },
+  {
+   "begin": "46.920",
+   "children": [],
+   "end": "89.640",
+   "id": "sn1.20:1.5",
+   "language": "eng",
+   "lines": [
+    "Atha kho a\u00f1\u00f1atar\u0101 devat\u0101 abhikkant\u0101ya rattiy\u0101 abhikkantava\u1e47\u1e47\u0101 kevalakappa\u1e43 tapoda\u1e43 obh\u0101setv\u0101 yena \u0101yasm\u0101 samiddhi tenupasa\u1e45kami; upasa\u1e45kamitv\u0101 veh\u0101sa\u1e43 \u1e6dhit\u0101 \u0101yasmanta\u1e43 samiddhi\u1e43 g\u0101th\u0101ya ajjhabh\u0101si:"
+   ]
+  },
+  {
+   "begin": "89.640",
+   "children": [],
+   "end": "91.480",
+   "id": "sn1.20:1.6",
+   "language": "eng",
+   "lines": [
+    "\u201cAbhutv\u0101 bhikkhasi bhikkhu,"
+   ]
+  },
+  {
+   "begin": "91.480",
+   "children": [],
+   "end": "93.080",
+   "id": "sn1.20:1.7",
+   "language": "eng",
+   "lines": [
+    "na hi bhutv\u0101na bhikkhasi;"
+   ]
+  },
+  {
+   "begin": "93.080",
+   "children": [],
+   "end": "94.240",
+   "id": "sn1.20:1.8",
+   "language": "eng",
+   "lines": [
+    "Bhutv\u0101na bhikkhu bhikkhassu,"
+   ]
+  },
+  {
+   "begin": "94.240",
+   "children": [],
+   "end": "99.560",
+   "id": "sn1.20:1.9",
+   "language": "eng",
+   "lines": [
+    "m\u0101 ta\u1e43 k\u0101lo upaccag\u0101\u201dti."
+   ]
+  },
+  {
+   "begin": "99.560",
+   "children": [],
+   "end": "104.680",
+   "id": "sn1.20:3.1",
+   "language": "eng",
+   "lines": [
+    "\u201cK\u0101la\u1e43 voha\u1e43 na j\u0101n\u0101mi,"
+   ]
+  },
+  {
+   "begin": "104.680",
+   "children": [],
+   "end": "105.560",
+   "id": "sn1.20:3.2",
+   "language": "eng",
+   "lines": [
+    "channo k\u0101lo na dissati;"
+   ]
+  },
+  {
+   "begin": "105.560",
+   "children": [],
+   "end": "109.120",
+   "id": "sn1.20:3.3",
+   "language": "eng",
+   "lines": [
+    "Tasm\u0101 abhutv\u0101 bhikkh\u0101mi,"
+   ]
+  },
+  {
+   "begin": "109.120",
+   "children": [],
+   "end": "114.320",
+   "id": "sn1.20:3.4",
+   "language": "eng",
+   "lines": [
+    "m\u0101 ma\u1e43 k\u0101lo upaccag\u0101\u201dti."
+   ]
+  },
+  {
+   "begin": "114.320",
+   "children": [],
+   "end": "134.560",
+   "id": "sn1.20:4.1",
+   "language": "eng",
+   "lines": [
+    "Atha kho s\u0101 devat\u0101 pathaviya\u1e43 pati\u1e6d\u1e6dhahitv\u0101 \u0101yasmanta\u1e43 samiddhi\u1e43 etadavoca:"
+   ]
+  },
+  {
+   "begin": "134.560",
+   "children": [],
+   "end": "154.480",
+   "id": "sn1.20:4.2",
+   "language": "eng",
+   "lines": [
+    "\u201cdaharo tva\u1e43, bhikkhu, pabbajito susu k\u0101\u1e37akeso, bhadrena yobbanena samann\u0101gato, pa\u1e6dhamena vayas\u0101, anikk\u012b\u1e37it\u0101v\u012b k\u0101mesu."
+   ]
+  },
+  {
+   "begin": "154.480",
+   "children": [],
+   "end": "158.880",
+   "id": "sn1.20:4.3",
+   "language": "eng",
+   "lines": [
+    "Bhu\u00f1ja, bhikkhu, m\u0101nusake k\u0101me;"
+   ]
+  },
+  {
+   "begin": "158.880",
+   "children": [],
+   "end": "165.560",
+   "id": "sn1.20:4.4",
+   "language": "eng",
+   "lines": [
+    "m\u0101 sandi\u1e6d\u1e6dhika\u1e43 hitv\u0101 k\u0101lika\u1e43 anudh\u0101v\u012b\u201dti."
+   ]
+  },
+  {
+   "begin": "165.560",
+   "children": [],
+   "end": "179.520",
+   "id": "sn1.20:5.1",
+   "language": "eng",
+   "lines": [
+    "\u201cNa khv\u0101ha\u1e43, \u0101vuso, sandi\u1e6d\u1e6dhika\u1e43 hitv\u0101 k\u0101lika\u1e43 anudh\u0101v\u0101mi."
+   ]
+  },
+  {
+   "begin": "179.520",
+   "children": [],
+   "end": "190.120",
+   "id": "sn1.20:5.2",
+   "language": "eng",
+   "lines": [
+    "K\u0101lika\u00f1ca khv\u0101ha\u1e43, \u0101vuso, hitv\u0101 sandi\u1e6d\u1e6dhika\u1e43 anudh\u0101v\u0101mi."
+   ]
+  },
+  {
+   "begin": "190.120",
+   "children": [],
+   "end": "200.960",
+   "id": "sn1.20:5.3",
+   "language": "eng",
+   "lines": [
+    "K\u0101lik\u0101 hi, \u0101vuso, k\u0101m\u0101 vutt\u0101 bhagavat\u0101 bahudukkh\u0101 bahup\u0101y\u0101s\u0101; \u0101d\u012bnavo ettha bhiyyo."
+   ]
+  },
+  {
+   "begin": "200.960",
+   "children": [],
+   "end": "216.920",
+   "id": "sn1.20:5.4",
+   "language": "eng",
+   "lines": [
+    "Sandi\u1e6d\u1e6dhiko aya\u1e43 dhammo ak\u0101liko ehipassiko opaneyyiko paccatta\u1e43 veditabbo vi\u00f1\u00f1\u016bh\u012b\u201dti."
+   ]
+  },
+  {
+   "begin": "216.920",
+   "children": [],
+   "end": "225.840",
+   "id": "sn1.20:6.1",
+   "language": "eng",
+   "lines": [
+    "\u201cKatha\u00f1ca, bhikkhu, k\u0101lik\u0101 k\u0101m\u0101 vutt\u0101 bhagavat\u0101 bahudukkh\u0101 bahup\u0101y\u0101s\u0101, \u0101d\u012bnavo ettha bhiyyo?"
+   ]
+  },
+  {
+   "begin": "225.840",
+   "children": [],
+   "end": "248.320",
+   "id": "sn1.20:6.2",
+   "language": "eng",
+   "lines": [
+    "Katha\u1e43 sandi\u1e6d\u1e6dhiko aya\u1e43 dhammo ak\u0101liko ehipassiko opaneyyiko paccatta\u1e43 veditabbo vi\u00f1\u00f1\u016bh\u012b\u201dti?"
+   ]
+  },
+  {
+   "begin": "248.320",
+   "children": [],
+   "end": "256.360",
+   "id": "sn1.20:7.1",
+   "language": "eng",
+   "lines": [
+    "\u201cAha\u1e43 kho, \u0101vuso, navo acirapabbajito adhun\u0101gato ima\u1e43 dhammavinaya\u1e43."
+   ]
+  },
+  {
+   "begin": "256.360",
+   "children": [],
+   "end": "261.680",
+   "id": "sn1.20:7.2",
+   "language": "eng",
+   "lines": [
+    "Na t\u0101ha\u1e43 sakkomi vitth\u0101rena \u0101cikkhitu\u1e43."
+   ]
+  },
+  {
+   "begin": "261.680",
+   "children": [],
+   "end": "268.520",
+   "id": "sn1.20:7.3",
+   "language": "eng",
+   "lines": [
+    "Aya\u1e43 so bhagav\u0101 araha\u1e43 samm\u0101sambuddho r\u0101jagahe viharati tapod\u0101r\u0101me."
+   ]
+  },
+  {
+   "begin": "268.520",
+   "children": [],
+   "end": "281.560",
+   "id": "sn1.20:7.4",
+   "language": "eng",
+   "lines": [
+    "Ta\u1e43 bhagavanta\u1e43 upasa\u1e45kamitv\u0101 etamattha\u1e43 puccha."
+   ]
+  },
+  {
+   "begin": "281.560",
+   "children": [],
+   "end": "287.520",
+   "id": "sn1.20:7.5",
+   "language": "eng",
+   "lines": [
+    "Yath\u0101 te bhagav\u0101 by\u0101karoti tath\u0101 na\u1e43 dh\u0101reyy\u0101s\u012b\u201dti."
+   ]
+  },
+  {
+   "begin": "287.520",
+   "children": [],
+   "end": "298.080",
+   "id": "sn1.20:8.1",
+   "language": "eng",
+   "lines": [
+    "\u201cNa kho, bhikkhu, sukaro so bhagav\u0101 amhehi upasa\u1e45kamitu\u1e43, a\u00f1\u00f1\u0101hi mahesakkh\u0101hi devat\u0101hi parivuto."
+   ]
+  },
+  {
+   "begin": "298.080",
+   "children": [],
+   "end": "317.560",
+   "id": "sn1.20:8.2",
+   "language": "eng",
+   "lines": [
+    "Sace kho tva\u1e43, bhikkhu, ta\u1e43 bhagavanta\u1e43 upasa\u1e45kamitv\u0101 etamattha\u1e43 puccheyy\u0101si, mayampi \u0101gaccheyy\u0101ma dhammassavan\u0101y\u0101\u201dti."
+   ]
+  },
+  {
+   "begin": "317.560",
+   "children": [],
+   "end": "342.200",
+   "id": "sn1.20:8.3",
+   "language": "eng",
+   "lines": [
+    "\u201cEvam\u0101vuso\u201dti kho \u0101yasm\u0101 samiddhi tass\u0101 devat\u0101ya pa\u1e6dissutv\u0101 yena bhagav\u0101 tenupasa\u1e45kami; upasa\u1e45kamitv\u0101 bhagavanta\u1e43 abhiv\u0101detv\u0101 ekamanta\u1e43 nis\u012bdi. Ekamanta\u1e43 nisinno kho \u0101yasm\u0101 samiddhi bhagavanta\u1e43 etadavoca:"
+   ]
+  },
+  {
+   "begin": "342.200",
+   "children": [],
+   "end": "362.280",
+   "id": "sn1.20:9.1",
+   "language": "eng",
+   "lines": [
+    "\u201cIdh\u0101ha\u1e43, bhante, rattiy\u0101 pacc\u016bsasamaya\u1e43 paccu\u1e6d\u1e6dh\u0101ya yena tapod\u0101 tenupasa\u1e45kami\u1e43 gatt\u0101ni parisi\u00f1citu\u1e43."
+   ]
+  },
+  {
+   "begin": "362.280",
+   "children": [],
+   "end": "374.160",
+   "id": "sn1.20:9.2",
+   "language": "eng",
+   "lines": [
+    "Tapode gatt\u0101ni parisi\u00f1citv\u0101 paccuttaritv\u0101 ekac\u012bvaro a\u1e6d\u1e6dh\u0101si\u1e43 gatt\u0101ni pubb\u0101payam\u0101no."
+   ]
+  },
+  {
+   "begin": "374.160",
+   "children": [],
+   "end": "400.280",
+   "id": "sn1.20:9.3",
+   "language": "eng",
+   "lines": [
+    "Atha kho, bhante, a\u00f1\u00f1atar\u0101 devat\u0101 abhikkant\u0101ya rattiy\u0101 abhikkantava\u1e47\u1e47\u0101 kevalakappa\u1e43 tapoda\u1e43 obh\u0101setv\u0101 yen\u0101ha\u1e43 tenupasa\u1e45kami; upasa\u1e45kamitv\u0101 veh\u0101sa\u1e43 \u1e6dhit\u0101 im\u0101ya g\u0101th\u0101ya ajjhabh\u0101si:"
+   ]
+  },
+  {
+   "begin": "400.280",
+   "children": [],
+   "end": "406.960",
+   "id": "sn1.20:10.1",
+   "language": "eng",
+   "lines": [
+    "\u2018Abhutv\u0101 bhikkhasi bhikkhu,"
+   ]
+  },
+  {
+   "begin": "406.960",
+   "children": [],
+   "end": "409.680",
+   "id": "sn1.20:10.2",
+   "language": "eng",
+   "lines": [
+    "na hi bhutv\u0101na bhikkhasi;"
+   ]
+  },
+  {
+   "begin": "409.680",
+   "children": [],
+   "end": "412.000",
+   "id": "sn1.20:10.3",
+   "language": "eng",
+   "lines": [
+    "Bhutv\u0101na bhikkhu bhikkhassu,"
+   ]
+  },
+  {
+   "begin": "412.000",
+   "children": [],
+   "end": "417.040",
+   "id": "sn1.20:10.4",
+   "language": "eng",
+   "lines": [
+    "m\u0101 ta\u1e43 k\u0101lo upaccag\u0101\u2019ti."
+   ]
+  },
+  {
+   "begin": "417.040",
+   "children": [],
+   "end": "429.080",
+   "id": "sn1.20:11.1",
+   "language": "eng",
+   "lines": [
+    "Eva\u1e43 vutte, aha\u1e43, bhante, ta\u1e43 devata\u1e43 g\u0101th\u0101ya paccabh\u0101si\u1e43:"
+   ]
+  },
+  {
+   "begin": "429.080",
+   "children": [],
+   "end": "434.240",
+   "id": "sn1.20:12.1",
+   "language": "eng",
+   "lines": [
+    "\u2018K\u0101la\u1e43 voha\u1e43 na j\u0101n\u0101mi,"
+   ]
+  },
+  {
+   "begin": "434.240",
+   "children": [],
+   "end": "436.560",
+   "id": "sn1.20:12.2",
+   "language": "eng",
+   "lines": [
+    "channo k\u0101lo na dissati;"
+   ]
+  },
+  {
+   "begin": "436.560",
+   "children": [],
+   "end": "437.880",
+   "id": "sn1.20:12.3",
+   "language": "eng",
+   "lines": [
+    "Tasm\u0101 abhutv\u0101 bhikkh\u0101mi,"
+   ]
+  },
+  {
+   "begin": "437.880",
+   "children": [],
+   "end": "442.120",
+   "id": "sn1.20:12.4",
+   "language": "eng",
+   "lines": [
+    "m\u0101 ma\u1e43 k\u0101lo upaccag\u0101\u2019ti."
+   ]
+  },
+  {
+   "begin": "442.120",
+   "children": [],
+   "end": "455.080",
+   "id": "sn1.20:13.1",
+   "language": "eng",
+   "lines": [
+    "Atha kho, bhante, s\u0101 devat\u0101 pathaviya\u1e43 pati\u1e6d\u1e6dhahitv\u0101 ma\u1e43 etadavoca:"
+   ]
+  },
+  {
+   "begin": "455.080",
+   "children": [],
+   "end": "486.280",
+   "id": "sn1.20:13.2",
+   "language": "eng",
+   "lines": [
+    "\u2018daharo tva\u1e43, bhikkhu, pabbajito susu k\u0101\u1e37akeso, bhadrena yobbanena samann\u0101gato, pa\u1e6dhamena vayas\u0101, anikk\u012b\u1e37it\u0101v\u012b k\u0101mesu."
+   ]
+  },
+  {
+   "begin": "486.280",
+   "children": [],
+   "end": "495.480",
+   "id": "sn1.20:13.3",
+   "language": "eng",
+   "lines": [
+    "Bhu\u00f1ja, bhikkhu, m\u0101nusake k\u0101me;"
+   ]
+  },
+  {
+   "begin": "495.480",
+   "children": [],
+   "end": "505.880",
+   "id": "sn1.20:13.4",
+   "language": "eng",
+   "lines": [
+    "m\u0101 sandi\u1e6d\u1e6dhika\u1e43 hitv\u0101 k\u0101lika\u1e43 anudh\u0101v\u012b\u2019ti."
+   ]
+  },
+  {
+   "begin": "505.880",
+   "children": [],
+   "end": "517.640",
+   "id": "sn1.20:14.1",
+   "language": "eng",
+   "lines": [
+    "Eva\u1e43 vutt\u0101ha\u1e43, bhante, ta\u1e43 devata\u1e43 etadavoca\u1e43:"
+   ]
+  },
+  {
+   "begin": "517.640",
+   "children": [],
+   "end": "531.040",
+   "id": "sn1.20:14.2",
+   "language": "eng",
+   "lines": [
+    "\u2018na khv\u0101ha\u1e43, \u0101vuso, sandi\u1e6d\u1e6dhika\u1e43 hitv\u0101 k\u0101lika\u1e43 anudh\u0101v\u0101mi;"
+   ]
+  },
+  {
+   "begin": "531.040",
+   "children": [],
+   "end": "545.320",
+   "id": "sn1.20:14.3",
+   "language": "eng",
+   "lines": [
+    "k\u0101lika\u00f1ca khv\u0101ha\u1e43, \u0101vuso, hitv\u0101 sandi\u1e6d\u1e6dhika\u1e43 anudh\u0101v\u0101mi."
+   ]
+  },
+  {
+   "begin": "545.320",
+   "children": [],
+   "end": "553.000",
+   "id": "sn1.20:14.4",
+   "language": "eng",
+   "lines": [
+    "K\u0101lik\u0101 hi, \u0101vuso, k\u0101m\u0101 vutt\u0101 bhagavat\u0101 bahudukkh\u0101 bahup\u0101y\u0101s\u0101; \u0101d\u012bnavo ettha bhiyyo."
+   ]
+  },
+  {
+   "begin": "553.000",
+   "children": [],
+   "end": "565.560",
+   "id": "sn1.20:14.5",
+   "language": "eng",
+   "lines": [
+    "Sandi\u1e6d\u1e6dhiko aya\u1e43 dhammo ak\u0101liko ehipassiko opaneyyiko paccatta\u1e43 veditabbo vi\u00f1\u00f1\u016bh\u012b\u2019ti."
+   ]
+  },
+  {
+   "begin": "565.560",
+   "children": [],
+   "end": "573.040",
+   "id": "sn1.20:15.1",
+   "language": "eng",
+   "lines": [
+    "Eva\u1e43 vutte, bhante, s\u0101 devat\u0101 ma\u1e43 etadavoca:"
+   ]
+  },
+  {
+   "begin": "573.040",
+   "children": [],
+   "end": "586.520",
+   "id": "sn1.20:15.2",
+   "language": "eng",
+   "lines": [
+    "\u2018katha\u00f1ca, bhikkhu, k\u0101lik\u0101 k\u0101m\u0101 vutt\u0101 bhagavat\u0101 bahudukkh\u0101 bahup\u0101y\u0101s\u0101; \u0101d\u012bnavo ettha bhiyyo?"
+   ]
+  },
+  {
+   "begin": "586.520",
+   "children": [],
+   "end": "600.680",
+   "id": "sn1.20:15.3",
+   "language": "eng",
+   "lines": [
+    "Katha\u1e43 sandi\u1e6d\u1e6dhiko aya\u1e43 dhammo ak\u0101liko ehipassiko opaneyyiko paccatta\u1e43 veditabbo vi\u00f1\u00f1\u016bh\u012b\u2019ti?"
+   ]
+  },
+  {
+   "begin": "600.680",
+   "children": [],
+   "end": "618.040",
+   "id": "sn1.20:16.1",
+   "language": "eng",
+   "lines": [
+    "Eva\u1e43 vutt\u0101ha\u1e43, bhante, ta\u1e43 devata\u1e43 etadavoca\u1e43:"
+   ]
+  },
+  {
+   "begin": "618.040",
+   "children": [],
+   "end": "639.240",
+   "id": "sn1.20:16.2",
+   "language": "eng",
+   "lines": [
+    "\u2018aha\u1e43 kho, \u0101vuso, navo acirapabbajito adhun\u0101gato ima\u1e43 dhammavinaya\u1e43, na t\u0101ha\u1e43 sakkomi vitth\u0101rena \u0101cikkhitu\u1e43."
+   ]
+  },
+  {
+   "begin": "639.240",
+   "children": [],
+   "end": "648.360",
+   "id": "sn1.20:16.3",
+   "language": "eng",
+   "lines": [
+    "Aya\u1e43 so bhagav\u0101 araha\u1e43 samm\u0101sambuddho r\u0101jagahe viharati tapod\u0101r\u0101me."
+   ]
+  },
+  {
+   "begin": "648.360",
+   "children": [],
+   "end": "666.120",
+   "id": "sn1.20:16.4",
+   "language": "eng",
+   "lines": [
+    "Ta\u1e43 bhagavanta\u1e43 upasa\u1e45kamitv\u0101 etamattha\u1e43 puccha."
+   ]
+  },
+  {
+   "begin": "666.120",
+   "children": [],
+   "end": "670.080",
+   "id": "sn1.20:16.5",
+   "language": "eng",
+   "lines": [
+    "Yath\u0101 te bhagav\u0101 by\u0101karoti tath\u0101 na\u1e43 dh\u0101reyy\u0101s\u012b\u2019ti."
+   ]
+  },
+  {
+   "begin": "670.080",
+   "children": [],
+   "end": "676.760",
+   "id": "sn1.20:17.1",
+   "language": "eng",
+   "lines": [
+    "Eva\u1e43 vutte, bhante, s\u0101 devat\u0101 ma\u1e43 etadavoca:"
+   ]
+  },
+  {
+   "begin": "676.760",
+   "children": [],
+   "end": "686.680",
+   "id": "sn1.20:17.2",
+   "language": "eng",
+   "lines": [
+    "\u2018na kho, bhikkhu, sukaro so bhagav\u0101 amhehi upasa\u1e45kamitu\u1e43, a\u00f1\u00f1\u0101hi mahesakkh\u0101hi devat\u0101hi parivuto."
+   ]
+  },
+  {
+   "begin": "686.680",
+   "children": [],
+   "end": "706.480",
+   "id": "sn1.20:17.3",
+   "language": "eng",
+   "lines": [
+    "Sace kho tva\u1e43, bhikkhu, ta\u1e43 bhagavanta\u1e43 upasa\u1e45kamitv\u0101 etamattha\u1e43 puccheyy\u0101si, mayampi \u0101gaccheyy\u0101ma dhammassavan\u0101y\u0101\u2019ti."
+   ]
+  },
+  {
+   "begin": "706.480",
+   "children": [],
+   "end": "717.840",
+   "id": "sn1.20:17.4",
+   "language": "eng",
+   "lines": [
+    "Sace, bhante, tass\u0101 devat\u0101ya sacca\u1e43 vacana\u1e43, idheva s\u0101 devat\u0101 avid\u016bre\u201dti."
+   ]
+  },
+  {
+   "begin": "717.840",
+   "children": [],
+   "end": "730.960",
+   "id": "sn1.20:18.1",
+   "language": "eng",
+   "lines": [
+    "Eva\u1e43 vutte, s\u0101 devat\u0101 \u0101yasmanta\u1e43 samiddhi\u1e43 etadavoca:"
+   ]
+  },
+  {
+   "begin": "730.960",
+   "children": [],
+   "end": "739.040",
+   "id": "sn1.20:18.2",
+   "language": "eng",
+   "lines": [
+    "\u201cpuccha, bhikkhu, puccha, bhikkhu, yamaha\u1e43 anuppatt\u0101\u201dti."
+   ]
+  },
+  {
+   "begin": "739.040",
+   "children": [],
+   "end": "747.840",
+   "id": "sn1.20:19.1",
+   "language": "eng",
+   "lines": [
+    "Atha kho bhagav\u0101 ta\u1e43 devata\u1e43 g\u0101th\u0101hi ajjhabh\u0101si:"
+   ]
+  },
+  {
+   "begin": "747.840",
+   "children": [],
+   "end": "750.040",
+   "id": "sn1.20:20.1",
+   "language": "eng",
+   "lines": [
+    "\u201cAkkheyyasa\u00f1\u00f1ino satt\u0101,"
+   ]
+  },
+  {
+   "begin": "750.040",
+   "children": [],
+   "end": "757.120",
+   "id": "sn1.20:20.2",
+   "language": "eng",
+   "lines": [
+    "akkheyyasmi\u1e43 pati\u1e6d\u1e6dhit\u0101;"
+   ]
+  },
+  {
+   "begin": "757.120",
+   "children": [],
+   "end": "759.320",
+   "id": "sn1.20:20.3",
+   "language": "eng",
+   "lines": [
+    "Akkheyya\u1e43 apari\u00f1\u00f1\u0101ya,"
+   ]
+  },
+  {
+   "begin": "759.320",
+   "children": [],
+   "end": "761.360",
+   "id": "sn1.20:20.4",
+   "language": "eng",
+   "lines": [
+    "yogam\u0101yanti maccuno."
+   ]
+  },
+  {
+   "begin": "761.360",
+   "children": [],
+   "end": "763.320",
+   "id": "sn1.20:21.1",
+   "language": "eng",
+   "lines": [
+    "Akkheyya\u00f1ca pari\u00f1\u00f1\u0101ya,"
+   ]
+  },
+  {
+   "begin": "763.320",
+   "children": [],
+   "end": "768.440",
+   "id": "sn1.20:21.2",
+   "language": "eng",
+   "lines": [
+    "Akkh\u0101t\u0101ra\u1e43 na ma\u00f1\u00f1ati;"
+   ]
+  },
+  {
+   "begin": "768.440",
+   "children": [],
+   "end": "772.360",
+   "id": "sn1.20:21.3",
+   "language": "eng",
+   "lines": [
+    "Ta\u00f1hi tassa na hot\u012bti,"
+   ]
+  },
+  {
+   "begin": "772.360",
+   "children": [],
+   "end": "778.040",
+   "id": "sn1.20:21.4",
+   "language": "eng",
+   "lines": [
+    "Yena na\u1e43 vajj\u0101 na tassa atthi;"
+   ]
+  },
+  {
+   "begin": "778.040",
+   "children": [],
+   "end": "780.080",
+   "id": "sn1.20:21.5",
+   "language": "eng",
+   "lines": [
+    "Sace vij\u0101n\u0101si vadehi yakkh\u0101\u201dti."
+   ]
+  },
+  {
+   "begin": "780.080",
+   "children": [],
+   "end": "797.080",
+   "id": "sn1.20:22.1",
+   "language": "eng",
+   "lines": [
+    "\u201cNa khv\u0101ha\u1e43, bhante, imassa bhagavat\u0101 sa\u1e45khittena bh\u0101sitassa vitth\u0101rena attha\u1e43 \u0101j\u0101n\u0101mi."
+   ]
+  },
+  {
+   "begin": "797.080",
+   "children": [],
+   "end": "816.840",
+   "id": "sn1.20:22.2",
+   "language": "eng",
+   "lines": [
+    "S\u0101dhu me, bhante, bhagav\u0101 tath\u0101 bh\u0101satu yath\u0101ha\u1e43 imassa bhagavat\u0101 sa\u1e45khittena bh\u0101sitassa vitth\u0101rena attha\u1e43 j\u0101neyyan\u201dti."
+   ]
+  },
+  {
+   "begin": "816.840",
+   "children": [],
+   "end": "822.600",
+   "id": "sn1.20:23.1",
+   "language": "eng",
+   "lines": [
+    "\u201cSamo vises\u012b uda v\u0101 nih\u012bno,"
+   ]
+  },
+  {
+   "begin": "822.600",
+   "children": [],
+   "end": "826.160",
+   "id": "sn1.20:23.2",
+   "language": "eng",
+   "lines": [
+    "Yo ma\u00f1\u00f1at\u012b so vivadetha tena;"
+   ]
+  },
+  {
+   "begin": "826.160",
+   "children": [],
+   "end": "834.800",
+   "id": "sn1.20:23.3",
+   "language": "eng",
+   "lines": [
+    "T\u012bsu vidh\u0101su avikampam\u0101no,"
+   ]
+  },
+  {
+   "begin": "834.800",
+   "children": [],
+   "end": "841.520",
+   "id": "sn1.20:23.4",
+   "language": "eng",
+   "lines": [
+    "Samo vises\u012bti na tassa hoti;"
+   ]
+  },
+  {
+   "begin": "841.520",
+   "children": [],
+   "end": "844.880",
+   "id": "sn1.20:23.5",
+   "language": "eng",
+   "lines": [
+    "Sace vij\u0101n\u0101si vadehi yakkh\u0101\u201dti."
+   ]
+  },
+  {
+   "begin": "844.880",
+   "children": [],
+   "end": "856.480",
+   "id": "sn1.20:24.1",
+   "language": "eng",
+   "lines": [
+    "\u201cImassapi khv\u0101ha\u1e43, bhante, bhagavat\u0101 sa\u1e45khittena bh\u0101sitassa na vitth\u0101rena attha\u1e43 \u0101j\u0101n\u0101mi."
+   ]
+  },
+  {
+   "begin": "856.480",
+   "children": [],
+   "end": "870.760",
+   "id": "sn1.20:24.2",
+   "language": "eng",
+   "lines": [
+    "S\u0101dhu me, bhante, bhagav\u0101 tath\u0101 bh\u0101satu yath\u0101ha\u1e43 imassa bhagavat\u0101 sa\u1e45khittena bh\u0101sitassa vitth\u0101rena attha\u1e43 j\u0101neyyan\u201dti."
+   ]
+  },
+  {
+   "begin": "870.760",
+   "children": [],
+   "end": "874.160",
+   "id": "sn1.20:25.1",
+   "language": "eng",
+   "lines": [
+    "\u201cPah\u0101si sa\u1e45kha\u1e43 na vim\u0101namajjhag\u0101,"
+   ]
+  },
+  {
+   "begin": "874.160",
+   "children": [],
+   "end": "881.600",
+   "id": "sn1.20:25.2",
+   "language": "eng",
+   "lines": [
+    "Acchecchi ta\u1e47ha\u1e43 idha n\u0101mar\u016bpe;"
+   ]
+  },
+  {
+   "begin": "881.600",
+   "children": [],
+   "end": "890.720",
+   "id": "sn1.20:25.3",
+   "language": "eng",
+   "lines": [
+    "Ta\u1e43 chinnagantha\u1e43 anigha\u1e43 nir\u0101sa\u1e43,"
+   ]
+  },
+  {
+   "begin": "890.720",
+   "children": [],
+   "end": "897.120",
+   "id": "sn1.20:25.4",
+   "language": "eng",
+   "lines": [
+    "Pariyesam\u0101n\u0101 n\u0101jjhagamu\u1e43;"
+   ]
+  },
+  {
+   "begin": "897.120",
+   "children": [],
+   "end": "903.440",
+   "id": "sn1.20:25.5",
+   "language": "eng",
+   "lines": [
+    "Dev\u0101 manuss\u0101 idha v\u0101 hura\u1e43 v\u0101,"
+   ]
+  },
+  {
+   "begin": "903.440",
+   "children": [],
+   "end": "910.640",
+   "id": "sn1.20:25.6",
+   "language": "eng",
+   "lines": [
+    "Saggesu v\u0101 sabbanivesanesu."
+   ]
+  },
+  {
+   "begin": "910.640",
+   "children": [],
+   "end": "914.880",
+   "id": "sn1.20:26.1",
+   "language": "eng",
+   "lines": [
+    "Sace vij\u0101n\u0101si vadehi yakkh\u0101\u201dti."
+   ]
+  },
+  {
+   "begin": "914.880",
+   "children": [],
+   "end": "931.800",
+   "id": "sn1.20:27.1",
+   "language": "eng",
+   "lines": [
+    "\u201cImassa khv\u0101ha\u1e43, bhante, bhagavat\u0101 sa\u1e45khittena bh\u0101sitassa eva\u1e43 vitth\u0101rena attha\u1e43 \u0101j\u0101n\u0101mi\u2014"
+   ]
+  },
+  {
+   "begin": "931.800",
+   "children": [],
+   "end": "939.760",
+   "id": "sn1.20:28.1",
+   "language": "eng",
+   "lines": [
+    "P\u0101pa\u1e43 na kayir\u0101 vacas\u0101 manas\u0101,"
+   ]
+  },
+  {
+   "begin": "939.760",
+   "children": [],
+   "end": "944.200",
+   "id": "sn1.20:28.2",
+   "language": "eng",
+   "lines": [
+    "K\u0101yena v\u0101 ki\u00f1cana sabbaloke;"
+   ]
+  },
+  {
+   "begin": "944.200",
+   "children": [],
+   "end": "950.520",
+   "id": "sn1.20:28.3",
+   "language": "eng",
+   "lines": [
+    "K\u0101me pah\u0101ya satim\u0101 sampaj\u0101no,"
+   ]
+  },
+  {
+   "begin": "950.520",
+   "children": [],
+   "end": "965.360",
+   "id": "sn1.20:28.4",
+   "language": "eng",
+   "lines": [
+    "Dukkha\u1e43 na sevetha anatthasa\u1e43hitan\u201dti."
+   ]
+  },
+  {
+   "begin": "965.360",
+   "children": [],
+   "end": "969.720",
+   "id": "sn1.20:28.5",
+   "language": "eng",
+   "lines": [
+    "Nandanavaggo dutiyo."
+   ]
+  },
+  {
+   "begin": "969.720",
+   "children": [],
+   "end": "974.360",
+   "id": "sn1.20:29.1",
+   "language": "eng",
+   "lines": [
+    "Nandan\u0101 nandati ceva,"
+   ]
+  },
+  {
+   "begin": "974.360",
+   "children": [],
+   "end": "975.720",
+   "id": "sn1.20:29.2",
+   "language": "eng",
+   "lines": [
+    "Natthiputtasamena ca;"
+   ]
+  },
+  {
+   "begin": "975.720",
+   "children": [],
+   "end": "982.840",
+   "id": "sn1.20:29.3",
+   "language": "eng",
+   "lines": [
+    "Khattiyo sa\u1e47am\u0101no ca,"
+   ]
+  },
+  {
+   "begin": "982.840",
+   "children": [],
+   "end": "986.120",
+   "id": "sn1.20:29.4",
+   "language": "eng",
+   "lines": [
+    "Nidd\u0101tand\u012b ca dukkara\u1e43;"
+   ]
+  },
+  {
+   "begin": "986.120",
+   "children": [],
+   "end": "989.360",
+   "id": "sn1.20:29.5",
+   "language": "eng",
+   "lines": [
+    "Hir\u012b ku\u1e6dik\u0101 navamo,"
+   ]
+  },
+  {
+   "begin": "989.360",
+   "children": [],
+   "end": "999.040",
+   "id": "sn1.20:29.6",
+   "language": "eng",
+   "lines": [
+    "Dasamo vutto samiddhin\u0101ti."
+   ]
+  }
+ ]
+}

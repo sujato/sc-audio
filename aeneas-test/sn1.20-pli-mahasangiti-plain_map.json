@@ -1,0 +1,1054 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "2.600",
+   "id": "sn1.20:0.3",
+   "language": "eng",
+   "lines": [
+    "Samiddhisutta\""
+   ]
+  },
+  {
+   "begin": "2.600",
+   "children": [],
+   "end": "15.160",
+   "id": "sn1.20:1.1",
+   "language": "eng",
+   "lines": [
+    "Evam me sutam\u2014"
+   ]
+  },
+  {
+   "begin": "15.160",
+   "children": [],
+   "end": "28.120",
+   "id": "sn1.20:1.2",
+   "language": "eng",
+   "lines": [
+    "ekam samayam bhagava rajagahe viharati tapodarame."
+   ]
+  },
+  {
+   "begin": "28.120",
+   "children": [],
+   "end": "44.040",
+   "id": "sn1.20:1.3",
+   "language": "eng",
+   "lines": [
+    "Atha kho ayasma samiddhi rattiya paccusasamayam paccutthaya yena tapoda tenupasankami gattani parisi\u00f1citum."
+   ]
+  },
+  {
+   "begin": "44.040",
+   "children": [],
+   "end": "63.480",
+   "id": "sn1.20:1.4",
+   "language": "eng",
+   "lines": [
+    "Tapode gattani parisi\u00f1citva paccuttaritva ekacivaro atthasi gattani pubbapayamano."
+   ]
+  },
+  {
+   "begin": "63.480",
+   "children": [],
+   "end": "95.600",
+   "id": "sn1.20:1.5",
+   "language": "eng",
+   "lines": [
+    "Atha kho a\u00f1\u00f1atara devata abhikkantaya rattiya abhikkantavanna kevalakappam tapodam obhasetva yena ayasma samiddhi tenupasankami; upasankamitva vehasam thita ayasmantam samiddhim gathaya ajjhabhasi:"
+   ]
+  },
+  {
+   "begin": "95.600",
+   "children": [],
+   "end": "103.920",
+   "id": "sn1.20:1.6",
+   "language": "eng",
+   "lines": [
+    "\u201cAbhutva bhikkhasi bhikkhu,"
+   ]
+  },
+  {
+   "begin": "103.920",
+   "children": [],
+   "end": "108.840",
+   "id": "sn1.20:1.7",
+   "language": "eng",
+   "lines": [
+    "na hi bhutvana bhikkhasi;"
+   ]
+  },
+  {
+   "begin": "108.840",
+   "children": [],
+   "end": "113.760",
+   "id": "sn1.20:1.8",
+   "language": "eng",
+   "lines": [
+    "Bhutvana bhikkhu bhikkhassu,"
+   ]
+  },
+  {
+   "begin": "113.760",
+   "children": [],
+   "end": "116.680",
+   "id": "sn1.20:1.9",
+   "language": "eng",
+   "lines": [
+    "ma tam kalo upaccaga\u201dti."
+   ]
+  },
+  {
+   "begin": "116.680",
+   "children": [],
+   "end": "126.560",
+   "id": "sn1.20:3.1",
+   "language": "eng",
+   "lines": [
+    "\u201cKalam voham na janami,"
+   ]
+  },
+  {
+   "begin": "126.560",
+   "children": [],
+   "end": "133.320",
+   "id": "sn1.20:3.2",
+   "language": "eng",
+   "lines": [
+    "channo kalo na dissati;"
+   ]
+  },
+  {
+   "begin": "133.320",
+   "children": [],
+   "end": "138.080",
+   "id": "sn1.20:3.3",
+   "language": "eng",
+   "lines": [
+    "Tasma abhutva bhikkhami,"
+   ]
+  },
+  {
+   "begin": "138.080",
+   "children": [],
+   "end": "146.800",
+   "id": "sn1.20:3.4",
+   "language": "eng",
+   "lines": [
+    "ma mam kalo upaccaga\u201dti."
+   ]
+  },
+  {
+   "begin": "146.800",
+   "children": [],
+   "end": "156.160",
+   "id": "sn1.20:4.1",
+   "language": "eng",
+   "lines": [
+    "Atha kho sa devata pathaviyam patitthahitva ayasmantam samiddhim etadavoca:"
+   ]
+  },
+  {
+   "begin": "156.160",
+   "children": [],
+   "end": "181.280",
+   "id": "sn1.20:4.2",
+   "language": "eng",
+   "lines": [
+    "\u201cdaharo tvam, bhikkhu, pabbajito susu kalakeso, bhadrena yobbanena samannagato, pathamena vayasa, anikkilitavi kamesu."
+   ]
+  },
+  {
+   "begin": "181.280",
+   "children": [],
+   "end": "187.000",
+   "id": "sn1.20:4.3",
+   "language": "eng",
+   "lines": [
+    "Bhu\u00f1ja, bhikkhu, manusake kame;"
+   ]
+  },
+  {
+   "begin": "187.000",
+   "children": [],
+   "end": "190.560",
+   "id": "sn1.20:4.4",
+   "language": "eng",
+   "lines": [
+    "ma sanditthikam hitva kalikam anudhavi\u201dti."
+   ]
+  },
+  {
+   "begin": "190.560",
+   "children": [],
+   "end": "200.160",
+   "id": "sn1.20:5.1",
+   "language": "eng",
+   "lines": [
+    "\u201cNa khvaham, avuso, sanditthikam hitva kalikam anudhavami."
+   ]
+  },
+  {
+   "begin": "200.160",
+   "children": [],
+   "end": "211.520",
+   "id": "sn1.20:5.2",
+   "language": "eng",
+   "lines": [
+    "Kalika\u00f1ca khvaham, avuso, hitva sanditthikam anudhavami."
+   ]
+  },
+  {
+   "begin": "211.520",
+   "children": [],
+   "end": "229.760",
+   "id": "sn1.20:5.3",
+   "language": "eng",
+   "lines": [
+    "Kalika hi, avuso, kama vutta bhagavata bahudukkha bahupayasa; adinavo ettha bhiyyo."
+   ]
+  },
+  {
+   "begin": "229.760",
+   "children": [],
+   "end": "237.880",
+   "id": "sn1.20:5.4",
+   "language": "eng",
+   "lines": [
+    "Sanditthiko ayam dhammo akaliko ehipassiko opaneyyiko paccattam veditabbo vi\u00f1\u00f1uhi\u201dti."
+   ]
+  },
+  {
+   "begin": "237.880",
+   "children": [],
+   "end": "260.080",
+   "id": "sn1.20:6.1",
+   "language": "eng",
+   "lines": [
+    "\u201cKatha\u00f1ca, bhikkhu, kalika kama vutta bhagavata bahudukkha bahupayasa, adinavo ettha bhiyyo?"
+   ]
+  },
+  {
+   "begin": "260.080",
+   "children": [],
+   "end": "271.800",
+   "id": "sn1.20:6.2",
+   "language": "eng",
+   "lines": [
+    "Katham sanditthiko ayam dhammo akaliko ehipassiko opaneyyiko paccattam veditabbo vi\u00f1\u00f1uhi\u201dti?"
+   ]
+  },
+  {
+   "begin": "271.800",
+   "children": [],
+   "end": "287.600",
+   "id": "sn1.20:7.1",
+   "language": "eng",
+   "lines": [
+    "\u201cAham kho, avuso, navo acirapabbajito adhunagato imam dhammavinayam."
+   ]
+  },
+  {
+   "begin": "287.600",
+   "children": [],
+   "end": "294.680",
+   "id": "sn1.20:7.2",
+   "language": "eng",
+   "lines": [
+    "Na taham sakkomi vittharena acikkhitum."
+   ]
+  },
+  {
+   "begin": "294.680",
+   "children": [],
+   "end": "304.600",
+   "id": "sn1.20:7.3",
+   "language": "eng",
+   "lines": [
+    "Ayam so bhagava araham sammasambuddho rajagahe viharati tapodarame."
+   ]
+  },
+  {
+   "begin": "304.600",
+   "children": [],
+   "end": "313.120",
+   "id": "sn1.20:7.4",
+   "language": "eng",
+   "lines": [
+    "Tam bhagavantam upasankamitva etamattham puccha."
+   ]
+  },
+  {
+   "begin": "313.120",
+   "children": [],
+   "end": "317.480",
+   "id": "sn1.20:7.5",
+   "language": "eng",
+   "lines": [
+    "Yatha te bhagava byakaroti tatha nam dhareyyasi\u201dti."
+   ]
+  },
+  {
+   "begin": "317.480",
+   "children": [],
+   "end": "339.120",
+   "id": "sn1.20:8.1",
+   "language": "eng",
+   "lines": [
+    "\u201cNa kho, bhikkhu, sukaro so bhagava amhehi upasankamitum, a\u00f1\u00f1ahi mahesakkhahi devatahi parivuto."
+   ]
+  },
+  {
+   "begin": "339.120",
+   "children": [],
+   "end": "356.160",
+   "id": "sn1.20:8.2",
+   "language": "eng",
+   "lines": [
+    "Sace kho tvam, bhikkhu, tam bhagavantam upasankamitva etamattham puccheyyasi, mayampi agaccheyyama dhammassavanaya\u201dti."
+   ]
+  },
+  {
+   "begin": "356.160",
+   "children": [],
+   "end": "388.400",
+   "id": "sn1.20:8.3",
+   "language": "eng",
+   "lines": [
+    "\u201cEvamavuso\u201dti kho ayasma samiddhi tassa devataya patissutva yena bhagava tenupasankami; upasankamitva bhagavantam abhivadetva ekamantam nisidi. Ekamantam nisinno kho ayasma samiddhi bhagavantam etadavoca:"
+   ]
+  },
+  {
+   "begin": "388.400",
+   "children": [],
+   "end": "404.280",
+   "id": "sn1.20:9.1",
+   "language": "eng",
+   "lines": [
+    "\u201cIdhaham, bhante, rattiya paccusasamayam paccutthaya yena tapoda tenupasankamim gattani parisi\u00f1citum."
+   ]
+  },
+  {
+   "begin": "404.280",
+   "children": [],
+   "end": "419.440",
+   "id": "sn1.20:9.2",
+   "language": "eng",
+   "lines": [
+    "Tapode gattani parisi\u00f1citva paccuttaritva ekacivaro atthasim gattani pubbapayamano."
+   ]
+  },
+  {
+   "begin": "419.440",
+   "children": [],
+   "end": "448.960",
+   "id": "sn1.20:9.3",
+   "language": "eng",
+   "lines": [
+    "Atha kho, bhante, a\u00f1\u00f1atara devata abhikkantaya rattiya abhikkantavanna kevalakappam tapodam obhasetva yenaham tenupasankami; upasankamitva vehasam thita imaya gathaya ajjhabhasi:"
+   ]
+  },
+  {
+   "begin": "448.960",
+   "children": [],
+   "end": "456.480",
+   "id": "sn1.20:10.1",
+   "language": "eng",
+   "lines": [
+    "\u2018Abhutva bhikkhasi bhikkhu,"
+   ]
+  },
+  {
+   "begin": "456.480",
+   "children": [],
+   "end": "461.600",
+   "id": "sn1.20:10.2",
+   "language": "eng",
+   "lines": [
+    "na hi bhutvana bhikkhasi;"
+   ]
+  },
+  {
+   "begin": "461.600",
+   "children": [],
+   "end": "466.160",
+   "id": "sn1.20:10.3",
+   "language": "eng",
+   "lines": [
+    "Bhutvana bhikkhu bhikkhassu,"
+   ]
+  },
+  {
+   "begin": "466.160",
+   "children": [],
+   "end": "474.280",
+   "id": "sn1.20:10.4",
+   "language": "eng",
+   "lines": [
+    "ma tam kalo upaccaga\u2019ti."
+   ]
+  },
+  {
+   "begin": "474.280",
+   "children": [],
+   "end": "481.520",
+   "id": "sn1.20:11.1",
+   "language": "eng",
+   "lines": [
+    "Evam vutte, aham, bhante, tam devatam gathaya paccabhasim:"
+   ]
+  },
+  {
+   "begin": "481.520",
+   "children": [],
+   "end": "487.200",
+   "id": "sn1.20:12.1",
+   "language": "eng",
+   "lines": [
+    "\u2018Kalam voham na janami,"
+   ]
+  },
+  {
+   "begin": "487.200",
+   "children": [],
+   "end": "492.880",
+   "id": "sn1.20:12.2",
+   "language": "eng",
+   "lines": [
+    "channo kalo na dissati;"
+   ]
+  },
+  {
+   "begin": "492.880",
+   "children": [],
+   "end": "500.640",
+   "id": "sn1.20:12.3",
+   "language": "eng",
+   "lines": [
+    "Tasma abhutva bhikkhami,"
+   ]
+  },
+  {
+   "begin": "500.640",
+   "children": [],
+   "end": "506.200",
+   "id": "sn1.20:12.4",
+   "language": "eng",
+   "lines": [
+    "ma mam kalo upaccaga\u2019ti."
+   ]
+  },
+  {
+   "begin": "506.200",
+   "children": [],
+   "end": "514.360",
+   "id": "sn1.20:13.1",
+   "language": "eng",
+   "lines": [
+    "Atha kho, bhante, sa devata pathaviyam patitthahitva mam etadavoca:"
+   ]
+  },
+  {
+   "begin": "514.360",
+   "children": [],
+   "end": "530.760",
+   "id": "sn1.20:13.2",
+   "language": "eng",
+   "lines": [
+    "\u2018daharo tvam, bhikkhu, pabbajito susu kalakeso, bhadrena yobbanena samannagato, pathamena vayasa, anikkilitavi kamesu."
+   ]
+  },
+  {
+   "begin": "530.760",
+   "children": [],
+   "end": "538.560",
+   "id": "sn1.20:13.3",
+   "language": "eng",
+   "lines": [
+    "Bhu\u00f1ja, bhikkhu, manusake kame;"
+   ]
+  },
+  {
+   "begin": "538.560",
+   "children": [],
+   "end": "543.600",
+   "id": "sn1.20:13.4",
+   "language": "eng",
+   "lines": [
+    "ma sanditthikam hitva kalikam anudhavi\u2019ti."
+   ]
+  },
+  {
+   "begin": "543.600",
+   "children": [],
+   "end": "555.120",
+   "id": "sn1.20:14.1",
+   "language": "eng",
+   "lines": [
+    "Evam vuttaham, bhante, tam devatam etadavocam:"
+   ]
+  },
+  {
+   "begin": "555.120",
+   "children": [],
+   "end": "562.200",
+   "id": "sn1.20:14.2",
+   "language": "eng",
+   "lines": [
+    "\u2018na khvaham, avuso, sanditthikam hitva kalikam anudhavami;"
+   ]
+  },
+  {
+   "begin": "562.200",
+   "children": [],
+   "end": "570.360",
+   "id": "sn1.20:14.3",
+   "language": "eng",
+   "lines": [
+    "kalika\u00f1ca khvaham, avuso, hitva sanditthikam anudhavami."
+   ]
+  },
+  {
+   "begin": "570.360",
+   "children": [],
+   "end": "587.640",
+   "id": "sn1.20:14.4",
+   "language": "eng",
+   "lines": [
+    "Kalika hi, avuso, kama vutta bhagavata bahudukkha bahupayasa; adinavo ettha bhiyyo."
+   ]
+  },
+  {
+   "begin": "587.640",
+   "children": [],
+   "end": "594.960",
+   "id": "sn1.20:14.5",
+   "language": "eng",
+   "lines": [
+    "Sanditthiko ayam dhammo akaliko ehipassiko opaneyyiko paccattam veditabbo vi\u00f1\u00f1uhi\u2019ti."
+   ]
+  },
+  {
+   "begin": "594.960",
+   "children": [],
+   "end": "601.720",
+   "id": "sn1.20:15.1",
+   "language": "eng",
+   "lines": [
+    "Evam vutte, bhante, sa devata mam etadavoca:"
+   ]
+  },
+  {
+   "begin": "601.720",
+   "children": [],
+   "end": "610.160",
+   "id": "sn1.20:15.2",
+   "language": "eng",
+   "lines": [
+    "\u2018katha\u00f1ca, bhikkhu, kalika kama vutta bhagavata bahudukkha bahupayasa; adinavo ettha bhiyyo?"
+   ]
+  },
+  {
+   "begin": "610.160",
+   "children": [],
+   "end": "623.200",
+   "id": "sn1.20:15.3",
+   "language": "eng",
+   "lines": [
+    "Katham sanditthiko ayam dhammo akaliko ehipassiko opaneyyiko paccattam veditabbo vi\u00f1\u00f1uhi\u2019ti?"
+   ]
+  },
+  {
+   "begin": "623.200",
+   "children": [],
+   "end": "626.840",
+   "id": "sn1.20:16.1",
+   "language": "eng",
+   "lines": [
+    "Evam vuttaham, bhante, tam devatam etadavocam:"
+   ]
+  },
+  {
+   "begin": "626.840",
+   "children": [],
+   "end": "642.520",
+   "id": "sn1.20:16.2",
+   "language": "eng",
+   "lines": [
+    "\u2018aham kho, avuso, navo acirapabbajito adhunagato imam dhammavinayam, na taham sakkomi vittharena acikkhitum."
+   ]
+  },
+  {
+   "begin": "642.520",
+   "children": [],
+   "end": "647.360",
+   "id": "sn1.20:16.3",
+   "language": "eng",
+   "lines": [
+    "Ayam so bhagava araham sammasambuddho rajagahe viharati tapodarame."
+   ]
+  },
+  {
+   "begin": "647.360",
+   "children": [],
+   "end": "651.920",
+   "id": "sn1.20:16.4",
+   "language": "eng",
+   "lines": [
+    "Tam bhagavantam upasankamitva etamattham puccha."
+   ]
+  },
+  {
+   "begin": "651.920",
+   "children": [],
+   "end": "658.440",
+   "id": "sn1.20:16.5",
+   "language": "eng",
+   "lines": [
+    "Yatha te bhagava byakaroti tatha nam dhareyyasi\u2019ti."
+   ]
+  },
+  {
+   "begin": "658.440",
+   "children": [],
+   "end": "668.480",
+   "id": "sn1.20:17.1",
+   "language": "eng",
+   "lines": [
+    "Evam vutte, bhante, sa devata mam etadavoca:"
+   ]
+  },
+  {
+   "begin": "668.480",
+   "children": [],
+   "end": "677.960",
+   "id": "sn1.20:17.2",
+   "language": "eng",
+   "lines": [
+    "\u2018na kho, bhikkhu, sukaro so bhagava amhehi upasankamitum, a\u00f1\u00f1ahi mahesakkhahi devatahi parivuto."
+   ]
+  },
+  {
+   "begin": "677.960",
+   "children": [],
+   "end": "698.800",
+   "id": "sn1.20:17.3",
+   "language": "eng",
+   "lines": [
+    "Sace kho tvam, bhikkhu, tam bhagavantam upasankamitva etamattham puccheyyasi, mayampi agaccheyyama dhammassavanaya\u2019ti."
+   ]
+  },
+  {
+   "begin": "698.800",
+   "children": [],
+   "end": "715.240",
+   "id": "sn1.20:17.4",
+   "language": "eng",
+   "lines": [
+    "Sace, bhante, tassa devataya saccam vacanam, idheva sa devata avidure\u201dti."
+   ]
+  },
+  {
+   "begin": "715.240",
+   "children": [],
+   "end": "720.640",
+   "id": "sn1.20:18.1",
+   "language": "eng",
+   "lines": [
+    "Evam vutte, sa devata ayasmantam samiddhim etadavoca:"
+   ]
+  },
+  {
+   "begin": "720.640",
+   "children": [],
+   "end": "729.440",
+   "id": "sn1.20:18.2",
+   "language": "eng",
+   "lines": [
+    "\u201cpuccha, bhikkhu, puccha, bhikkhu, yamaham anuppatta\u201dti."
+   ]
+  },
+  {
+   "begin": "729.440",
+   "children": [],
+   "end": "734.840",
+   "id": "sn1.20:19.1",
+   "language": "eng",
+   "lines": [
+    "Atha kho bhagava tam devatam gathahi ajjhabhasi:"
+   ]
+  },
+  {
+   "begin": "734.840",
+   "children": [],
+   "end": "742.160",
+   "id": "sn1.20:20.1",
+   "language": "eng",
+   "lines": [
+    "\u201cAkkheyyasa\u00f1\u00f1ino satta,"
+   ]
+  },
+  {
+   "begin": "742.160",
+   "children": [],
+   "end": "748.040",
+   "id": "sn1.20:20.2",
+   "language": "eng",
+   "lines": [
+    "akkheyyasmim patitthita;"
+   ]
+  },
+  {
+   "begin": "748.040",
+   "children": [],
+   "end": "752.120",
+   "id": "sn1.20:20.3",
+   "language": "eng",
+   "lines": [
+    "Akkheyyam apari\u00f1\u00f1aya,"
+   ]
+  },
+  {
+   "begin": "752.120",
+   "children": [],
+   "end": "757.120",
+   "id": "sn1.20:20.4",
+   "language": "eng",
+   "lines": [
+    "yogamayanti maccuno."
+   ]
+  },
+  {
+   "begin": "757.120",
+   "children": [],
+   "end": "761.920",
+   "id": "sn1.20:21.1",
+   "language": "eng",
+   "lines": [
+    "Akkheyya\u00f1ca pari\u00f1\u00f1aya,"
+   ]
+  },
+  {
+   "begin": "761.920",
+   "children": [],
+   "end": "764.440",
+   "id": "sn1.20:21.2",
+   "language": "eng",
+   "lines": [
+    "Akkhataram na ma\u00f1\u00f1ati;"
+   ]
+  },
+  {
+   "begin": "764.440",
+   "children": [],
+   "end": "772.360",
+   "id": "sn1.20:21.3",
+   "language": "eng",
+   "lines": [
+    "Ta\u00f1hi tassa na hotiti,"
+   ]
+  },
+  {
+   "begin": "772.360",
+   "children": [],
+   "end": "775.000",
+   "id": "sn1.20:21.4",
+   "language": "eng",
+   "lines": [
+    "Yena nam vajja na tassa atthi;"
+   ]
+  },
+  {
+   "begin": "775.000",
+   "children": [],
+   "end": "781.680",
+   "id": "sn1.20:21.5",
+   "language": "eng",
+   "lines": [
+    "Sace vijanasi vadehi yakkha\u201dti."
+   ]
+  },
+  {
+   "begin": "781.680",
+   "children": [],
+   "end": "795.040",
+   "id": "sn1.20:22.1",
+   "language": "eng",
+   "lines": [
+    "\u201cNa khvaham, bhante, imassa bhagavata sankhittena bhasitassa vittharena attham ajanami."
+   ]
+  },
+  {
+   "begin": "795.040",
+   "children": [],
+   "end": "816.840",
+   "id": "sn1.20:22.2",
+   "language": "eng",
+   "lines": [
+    "Sadhu me, bhante, bhagava tatha bhasatu yathaham imassa bhagavata sankhittena bhasitassa vittharena attham janeyyan\u201dti."
+   ]
+  },
+  {
+   "begin": "816.840",
+   "children": [],
+   "end": "822.920",
+   "id": "sn1.20:23.1",
+   "language": "eng",
+   "lines": [
+    "\u201cSamo visesi uda va nihino,"
+   ]
+  },
+  {
+   "begin": "822.920",
+   "children": [],
+   "end": "826.120",
+   "id": "sn1.20:23.2",
+   "language": "eng",
+   "lines": [
+    "Yo ma\u00f1\u00f1ati so vivadetha tena;"
+   ]
+  },
+  {
+   "begin": "826.120",
+   "children": [],
+   "end": "832.000",
+   "id": "sn1.20:23.3",
+   "language": "eng",
+   "lines": [
+    "Tisu vidhasu avikampamano,"
+   ]
+  },
+  {
+   "begin": "832.000",
+   "children": [],
+   "end": "841.280",
+   "id": "sn1.20:23.4",
+   "language": "eng",
+   "lines": [
+    "Samo visesiti na tassa hoti;"
+   ]
+  },
+  {
+   "begin": "841.280",
+   "children": [],
+   "end": "846.440",
+   "id": "sn1.20:23.5",
+   "language": "eng",
+   "lines": [
+    "Sace vijanasi vadehi yakkha\u201dti."
+   ]
+  },
+  {
+   "begin": "846.440",
+   "children": [],
+   "end": "860.720",
+   "id": "sn1.20:24.1",
+   "language": "eng",
+   "lines": [
+    "\u201cImassapi khvaham, bhante, bhagavata sankhittena bhasitassa na vittharena attham ajanami."
+   ]
+  },
+  {
+   "begin": "860.720",
+   "children": [],
+   "end": "874.120",
+   "id": "sn1.20:24.2",
+   "language": "eng",
+   "lines": [
+    "Sadhu me, bhante, bhagava tatha bhasatu yathaham imassa bhagavata sankhittena bhasitassa vittharena attham janeyyan\u201dti."
+   ]
+  },
+  {
+   "begin": "874.120",
+   "children": [],
+   "end": "884.520",
+   "id": "sn1.20:25.1",
+   "language": "eng",
+   "lines": [
+    "\u201cPahasi sankham na vimanamajjhaga,"
+   ]
+  },
+  {
+   "begin": "884.520",
+   "children": [],
+   "end": "886.640",
+   "id": "sn1.20:25.2",
+   "language": "eng",
+   "lines": [
+    "Acchecchi tanham idha namarupe;"
+   ]
+  },
+  {
+   "begin": "886.640",
+   "children": [],
+   "end": "893.200",
+   "id": "sn1.20:25.3",
+   "language": "eng",
+   "lines": [
+    "Tam chinnagantham anigham nirasam,"
+   ]
+  },
+  {
+   "begin": "893.200",
+   "children": [],
+   "end": "899.040",
+   "id": "sn1.20:25.4",
+   "language": "eng",
+   "lines": [
+    "Pariyesamana najjhagamum;"
+   ]
+  },
+  {
+   "begin": "899.040",
+   "children": [],
+   "end": "904.640",
+   "id": "sn1.20:25.5",
+   "language": "eng",
+   "lines": [
+    "Deva manussa idha va huram va,"
+   ]
+  },
+  {
+   "begin": "904.640",
+   "children": [],
+   "end": "913.000",
+   "id": "sn1.20:25.6",
+   "language": "eng",
+   "lines": [
+    "Saggesu va sabbanivesanesu."
+   ]
+  },
+  {
+   "begin": "913.000",
+   "children": [],
+   "end": "922.120",
+   "id": "sn1.20:26.1",
+   "language": "eng",
+   "lines": [
+    "Sace vijanasi vadehi yakkha\u201dti."
+   ]
+  },
+  {
+   "begin": "922.120",
+   "children": [],
+   "end": "931.840",
+   "id": "sn1.20:27.1",
+   "language": "eng",
+   "lines": [
+    "\u201cImassa khvaham, bhante, bhagavata sankhittena bhasitassa evam vittharena attham ajanami\u2014"
+   ]
+  },
+  {
+   "begin": "931.840",
+   "children": [],
+   "end": "939.080",
+   "id": "sn1.20:28.1",
+   "language": "eng",
+   "lines": [
+    "Papam na kayira vacasa manasa,"
+   ]
+  },
+  {
+   "begin": "939.080",
+   "children": [],
+   "end": "944.200",
+   "id": "sn1.20:28.2",
+   "language": "eng",
+   "lines": [
+    "Kayena va ki\u00f1cana sabbaloke;"
+   ]
+  },
+  {
+   "begin": "944.200",
+   "children": [],
+   "end": "954.160",
+   "id": "sn1.20:28.3",
+   "language": "eng",
+   "lines": [
+    "Kame pahaya satima sampajano,"
+   ]
+  },
+  {
+   "begin": "954.160",
+   "children": [],
+   "end": "965.360",
+   "id": "sn1.20:28.4",
+   "language": "eng",
+   "lines": [
+    "Dukkham na sevetha anatthasamhitan\u201dti."
+   ]
+  },
+  {
+   "begin": "965.360",
+   "children": [],
+   "end": "967.400",
+   "id": "sn1.20:28.5",
+   "language": "eng",
+   "lines": [
+    "Nandanavaggo dutiyo."
+   ]
+  },
+  {
+   "begin": "967.400",
+   "children": [],
+   "end": "972.160",
+   "id": "sn1.20:29.1",
+   "language": "eng",
+   "lines": [
+    "Nandana nandati ceva,"
+   ]
+  },
+  {
+   "begin": "972.160",
+   "children": [],
+   "end": "976.640",
+   "id": "sn1.20:29.2",
+   "language": "eng",
+   "lines": [
+    "Natthiputtasamena ca;"
+   ]
+  },
+  {
+   "begin": "976.640",
+   "children": [],
+   "end": "980.840",
+   "id": "sn1.20:29.3",
+   "language": "eng",
+   "lines": [
+    "Khattiyo sanamano ca,"
+   ]
+  },
+  {
+   "begin": "980.840",
+   "children": [],
+   "end": "986.320",
+   "id": "sn1.20:29.4",
+   "language": "eng",
+   "lines": [
+    "Niddatandi ca dukkaram;"
+   ]
+  },
+  {
+   "begin": "986.320",
+   "children": [],
+   "end": "989.320",
+   "id": "sn1.20:29.5",
+   "language": "eng",
+   "lines": [
+    "Hiri kutika navamo,"
+   ]
+  },
+  {
+   "begin": "989.320",
+   "children": [],
+   "end": "999.040",
+   "id": "sn1.20:29.6",
+   "language": "eng",
+   "lines": [
+    "Dasamo vutto samiddhinati."
+   ]
+  }
+ ]
+}
